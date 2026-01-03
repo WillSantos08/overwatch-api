@@ -1,0 +1,316 @@
+[
+    {
+        "name": "Ashe",
+        "class": "dps",
+        "image": "dps/ashe.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/ashe"
+    },
+
+    {
+        "name": "Bastion",
+        "class": "dps",
+        "image": "dps/bastion.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/bastion"
+    },
+
+    {
+        "name": "Cassidy",
+        "class": "dps",
+        "image": "dps/cassidy.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/cassidy"
+    },
+
+    {
+        "name": "Echo",
+        "class": "dps",
+        "image": "dps/echo.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/echo"
+    },
+
+    {
+        "name": "Freja",
+        "class": "dps",
+        "image": "dps/freja.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/freja"
+    },
+
+    {
+        "name": "Genji",
+        "class": "dps",
+        "image": "dps/genji.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/genji"
+    },
+
+    {
+        "name": "Hanzo",
+        "class": "dps",
+        "image": "dps/hanzo.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/hanzo"
+    },
+
+    {
+        "name": "Junkrat",
+        "class": "dps",
+        "image": "dps/junkrat.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/junkrat"
+    },
+
+    {
+        "name": "Mei",
+        "class": "dps",
+        "image": "dps/mei.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/mei"
+    },
+
+    {
+        "name": "Pharah",
+        "class": "dps",
+        "image": "dps/pharah.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/pharah"
+    },
+
+    {
+        "name": "Reaper",
+        "class": "dps",
+        "image": "dps/reaper.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/reaper"
+    },
+
+    {
+        "name": "Sojourn",
+        "class": "dps",
+        "image": "dps/sojourn.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/sojourn"
+    },
+
+    {
+        "name": "Soldado 76",
+        "class": "dps",
+        "image": "dps/soldier_76.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/soldier-76"
+    },
+
+    {
+        "name": "Sombra",
+        "class": "dps",
+        "image": "dps/sombra.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/sombra"
+    },
+
+    {
+        "name": "Symmetra",
+        "class": "dps",
+        "image": "dps/symmetra.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/symmetra"
+    },
+
+    {
+        "name": "Torbjorn",
+        "class": "dps",
+        "image": "dps/torbjorn.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/torbjorn"
+    },
+
+    {
+        "name": "Tracer",
+        "class": "dps",
+        "image": "dps/tracer.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/tracer"
+    },
+
+    {
+        "name": "Vendetta",
+        "class": "dps",
+        "image": "dps/vendetta.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/vendetta"
+    },
+
+    {
+        "name": "Venture",
+        "class": "dps",
+        "image": "dps/venture.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/venture"
+    },
+
+    {
+        "name": "Widowmaker",
+        "class": "dps",
+        "image": "dps/widowmaker.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/widowmaker"
+    },
+
+    {
+        "name": "Ana",
+        "class": "support",
+        "image": "support/ana.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/ana"
+    },
+
+    {
+        "name": "Baptiste",
+        "class": "support",
+        "image": "support/baptiste.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/baptiste"
+    },
+
+    {
+        "name": "Brigitte",
+        "class": "support",
+        "image": "support/brigitte.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/brigitte"
+    },
+
+    {
+        "name": "Illari",
+        "class": "support",
+        "image": "support/illari.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/illari"
+    },
+
+    {
+        "name": "Juno",
+        "class": "support",
+        "image": "support/juno.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/juno"
+    },
+
+    {
+        "name": "Kiriko",
+        "class": "support",
+        "image": "support/kiriko.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/kiriko"
+    },
+
+    {
+        "name": "Lifeweaver",
+        "class": "support",
+        "image": "support/lifeweaver.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/lifeweaver"
+    },
+
+    {
+        "name": "Lucio",
+        "class": "support",
+        "image": "support/lucio.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/lucio"
+    },
+
+    {
+        "name": "Mercy",
+        "class": "support",
+        "image": "support/mercy.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/mercy"
+    },
+
+    {
+        "name": "Moira",
+        "class": "support",
+        "image": "support/moira.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/moira"
+    },
+
+    {
+        "name": "Wuyang",
+        "class": "support",
+        "image": "support/wuyang.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/wuyang"
+    },
+
+    {
+        "name": "Zenyatta",
+        "class": "support",
+        "image": "support/zenyatta.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/zenyatta"
+    },
+
+    {
+        "name": "D.Va",
+        "class": "tank",
+        "image": "tank/dva.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/dva"
+    },
+
+    {
+        "name": "Doomfist",
+        "class": "tank",
+        "image": "tank/ana.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/doomfist"
+    },
+
+    {
+        "name": "Hazard",
+        "class": "tank",
+        "image": "tank/hazard.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/hazard"
+    },
+
+    {
+        "name": "Rainha Junker",
+        "class": "tank",
+        "image": "tank/junker_queen.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/junker-queen"
+    },
+
+    {
+        "name": "Mauga",
+        "class": "tank",
+        "image": "tank/mauga.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/mauga"
+    },
+
+    {
+        "name": "Orisa",
+        "class": "tank",
+        "image": "tank/orisa.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/orisa"
+    },
+
+    {
+        "name": "Ramattra",
+        "class": "tank",
+        "image": "tank/ramattra.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/ramattra"
+    },
+
+    {
+        "name": "Reinhardt",
+        "class": "tank",
+        "image": "tank/reinhardt.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/reinhardt"
+    },
+
+    {
+        "name": "Roadhog",
+        "class": "tank",
+        "image": "tank/roadhog.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/roadhog"
+    },
+
+    {
+        "name": "Sigma",
+        "class": "tank",
+        "image": "tank/sigma.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/sigma"
+    },
+
+    {
+        "name": "Winston",
+        "class": "tank",
+        "image": "tank/winston.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/winston"
+    },
+
+    {
+        "name": "Wrecking Ball",
+        "class": "tank",
+        "image": "tank/wrecking_ball.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/wrecking-ball"
+    },
+
+    {
+        "name": "Zarya",
+        "class": "tank",
+        "image": "tank/zarya.png",
+        "url": "https://overwatch.blizzard.com/pt-br/heroes/zarya"
+    }
+]
